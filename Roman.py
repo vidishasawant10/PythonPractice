@@ -7,5 +7,4 @@ class Roman:
                 integer -= roman[s[i]]
             else:
                 integer += roman[s[i]]
-        return integer
-
+        return int(integer)
