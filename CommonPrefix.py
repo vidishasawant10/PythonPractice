@@ -1,8 +1,5 @@
-from _ast import List
-
-
 class CommonPrefix:
-    def longestCommonPrefix(self, strs: List[str]) -> str:
+    def longestCommonPrefix(self, strs: list[str]) -> str:
         res = ""
 
         if len(strs) == 0:
