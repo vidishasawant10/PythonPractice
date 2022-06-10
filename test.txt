@@ -1,0 +1,10 @@
+After finishing the Python Basics, we will move towards the most important part of Python, Data Structures and Algorithms (DSA). They are the foundational blocks of any programming language. DSA is a must-have for both software development and coding interviews.
+These are the topics you should learn to master the DSA.
+Arrays and Linked Lists
+Binary Search Trees, Recursion
+Python Lists
+Tuples, Dictionaries, Sets, and Slicing
+Stacks and Queues
+Hashing, Hash Tables, Graph Traversing
+Sorting algorithms, Divide and Conquer
+Dynamic Programming
